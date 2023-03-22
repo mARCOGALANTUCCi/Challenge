@@ -1,1 +1,1 @@
-0 0 * * 1 tar -czvf home/user/backup.tgz /home/user && scp /home/user/backup.tgz user@192.168.1.100:path/to/remote/directory
+0 0 * * 1 tar -czvf home/user/backup.tgz /home/user && scp /home/user/backup.tgz user@192.168.1.100:path/remote/directory
